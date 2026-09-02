@@ -1,0 +1,58 @@
+about:
+  description: It's not just a linter that annoys you!
+  license: GPL-2.0
+  homepage: https://pylint.readthedocs.io/en/latest/
+  head: f1e511a
+  archived: false
+  latestVersion: v4.0.8
+  collectedAt: 2026-09-02T05:05:51Z
+timeline:
+  created: 2015-12-09
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-29
+popularity:
+  star: 5722
+  watcher: 72
+  fork: 1322
+  release: 114
+  contributor: 585
+  pullRequest: 664
+  issue: 6012
+language:
+  Python: 3671669
+  Mermaid: 7198
+  HTML: 1844
+totalLine: 3680711
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 2
+    mergedPR: 65
+    openPR: 24
+    closedIssue: 13
+    openIssue: 9
+    commit: 104
+  last90d:
+    since: 2026-06-04
+    release: 3
+    mergedPR: 144
+    openPR: 44
+    closedIssue: 35
+    openIssue: 16
+    commit: 206
+  last180d:
+    since: 2026-03-06
+    release: 3
+    mergedPR: 245
+    openPR: 60
+    closedIssue: 66
+    openIssue: 28
+    commit: 359
+  last360d:
+    since: 2025-09-07
+    release: 10
+    mergedPR: 457
+    openPR: 70
+    closedIssue: 142
+    openIssue: 63
+    commit: 666
