@@ -5,7 +5,7 @@ about:
   head: af3930e
   archived: false
   latestVersion: "v4.0.8"
-  collectedAt: 2026-09-07T04:42:43Z
+  collectedAt: 2026-09-07T19:48:34Z
 timeline:
   created: 2015-12-09
   lastCommit: 2026-09-06
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 5722
   watcher: 73
-  fork: 1331
+  fork: 1333
   release: 114
   contributor: 589
-  pullRequest: 5350
+  pullRequest: 5352
   issue: 6012
 language:
   Python: 3711359
@@ -28,7 +28,7 @@ recent:
     since: 2026-08-08
     release: 2
     mergedPR: 71
-    openPR: 28
+    openPR: 30
     closedIssue: 11
     openIssue: 8
     commit: 87
@@ -36,7 +36,7 @@ recent:
     since: 2026-07-09
     release: 2
     mergedPR: 102
-    openPR: 46
+    openPR: 48
     closedIssue: 22
     openIssue: 11
     commit: 146
@@ -44,7 +44,7 @@ recent:
     since: 2026-06-09
     release: 3
     mergedPR: 140
-    openPR: 50
+    openPR: 52
     closedIssue: 35
     openIssue: 14
     commit: 193
@@ -52,7 +52,7 @@ recent:
     since: 2026-03-11
     release: 3
     mergedPR: 244
-    openPR: 63
+    openPR: 65
     closedIssue: 61
     openIssue: 27
     commit: 363
@@ -60,7 +60,7 @@ recent:
     since: 2025-09-12
     release: 10
     mergedPR: 461
-    openPR: 77
+    openPR: 79
     closedIssue: 143
     openIssue: 61
     commit: 657
@@ -68,20 +68,20 @@ recent:
     since: 2024-09-17
     release: 20
     mergedPR: 786
-    openPR: 82
+    openPR: 84
     closedIssue: 281
     openIssue: 162
     commit: 926
 total:
   release: 114
   mergedPR: 4677
-  openPR: 91
+  openPR: 93
   closedIssue: 5023
   openIssue: 989
   commit: 10270
 ---
 path: /home/runner/.x-repo/github.com/pylint-dev/pylint
-collectedAt: 2026-09-07T04:42:50Z
+collectedAt: 2026-09-07T19:48:41Z
 loc:
   Python:
     code: 93897
@@ -311,7 +311,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:42:51+00:00
+  collectedAt: 2026-09-07T19:48:42+00:00
   platform:
     darwin/arm64:
       name:  null
