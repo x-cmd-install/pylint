@@ -4,7 +4,7 @@
 
 It's not just a linter that annoys you!
 
-![pylint](https://repo.x-cmd.io/pylint.svg)
+![pylint](https://repo.x-cmd.io/pylint.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,35 @@ x install pylint
 - **最新版本**: `v4.0.8` (2026-08-29)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-08-29T12:21:15Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pylint-4.0.8-py3-none-any.whl](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl) | 528.0 KiB | `other` |
+| [pylint-4.0.8-py3-none-any.whl.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl.sigstore.json) | 9.1 KiB | `other` |
+| [pylint-4.0.8.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz) | 1.5 MiB | `native/unknown` |
+| [pylint-4.0.8.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz.sigstore.json) | 9.0 KiB | `other` |
+| [v4.0.8.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.tar.gz) | 1.5 MiB | `native/unknown` |
+| [v4.0.8.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.tar.gz.sigstore.json) | 9.0 KiB | `other` |
+| [v4.0.8.zip](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.zip) | 2.8 MiB | `other` |
+| [v4.0.8.zip.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.zip.sigstore.json) | 9.0 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 5,722 · **Fork**: 1,334 · **开放 issue**: 6,012 · **贡献者**: 588
+- **Star**: 5,722 · **Fork**: 1,335 · **开放 issue**: 6,012 · **贡献者**: 588
 
 ## 累计统计
 
-- **发布数**: 114 · **已合并 PR**: 4678 · **开放 PR**: 95 · **已关闭 issue**: 5025 · **开放 issue**: 987 · **提交数**: 10271
+- **发布数**: 114 · **已合并 PR**: 4678 · **开放 PR**: 97 · **已关闭 issue**: 5025 · **开放 issue**: 987 · **提交数**: 10271
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 59 | 31 | 13 | 6 | 83 |
-| 90d | 2026-06-12 | 3 | 139 | 54 | 34 | 12 | 188 |
-| 360d | 2025-09-15 | 10 | 457 | 80 | 145 | 58 | 652 |
+| 30d | 2026-08-11 | 1 | 59 | 33 | 13 | 6 | 83 |
+| 90d | 2026-06-12 | 3 | 139 | 56 | 34 | 12 | 188 |
+| 360d | 2025-09-15 | 10 | 457 | 82 | 145 | 58 | 652 |
 
 ## 代码规模
 
@@ -71,4 +83,4 @@ pylint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:50:40Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:21:32Z._

@@ -23,23 +23,35 @@ x install pylint
 - **Latest**: `v4.0.8` (2026-08-29)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 8
-- **Published**: 2026-08-29T12:21:15Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pylint-4.0.8-py3-none-any.whl](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl) | 528.0 KiB | `other` |
+| [pylint-4.0.8-py3-none-any.whl.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl.sigstore.json) | 9.1 KiB | `other` |
+| [pylint-4.0.8.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz) | 1.5 MiB | `native/unknown` |
+| [pylint-4.0.8.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz.sigstore.json) | 9.0 KiB | `other` |
+| [v4.0.8.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.tar.gz) | 1.5 MiB | `native/unknown` |
+| [v4.0.8.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.tar.gz.sigstore.json) | 9.0 KiB | `other` |
+| [v4.0.8.zip](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.zip) | 2.8 MiB | `other` |
+| [v4.0.8.zip.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.zip.sigstore.json) | 9.0 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 5,722 · **Forks**: 1,334 · **Open issues**: 6,012 · **Contributors**: 588
+- **Stars**: 5,722 · **Forks**: 1,335 · **Open issues**: 6,012 · **Contributors**: 588
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 4678 · **Open PRs**: 95 · **Closed issues**: 5025 · **Open issues**: 987 · **Commits**: 10271
+- **Releases**: 114 · **Merged PRs**: 4678 · **Open PRs**: 97 · **Closed issues**: 5025 · **Open issues**: 987 · **Commits**: 10271
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 59 | 31 | 13 | 6 | 83 |
-| 90d | 2026-06-12 | 3 | 139 | 54 | 34 | 12 | 188 |
-| 360d | 2025-09-15 | 10 | 457 | 80 | 145 | 58 | 652 |
+| 30d | 2026-08-11 | 1 | 59 | 33 | 13 | 6 | 83 |
+| 90d | 2026-06-12 | 3 | 139 | 56 | 34 | 12 | 188 |
+| 360d | 2025-09-15 | 10 | 457 | 82 | 145 | 58 | 652 |
 
 ## Code size
 
@@ -67,8 +79,8 @@ Lowest-scoring checks:
 Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pylint` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pylint.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pylint.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:50:39Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:31Z._
