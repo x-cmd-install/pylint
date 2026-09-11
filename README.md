@@ -12,48 +12,7 @@ It's not just a linter that annoys you!
 x install pylint
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/pylint-dev/pylint>
-- **Homepage**: <https://pylint.readthedocs.io/en/latest/>
-- **License**: GPL-2.0
-
-## Release
-
-- **Latest**: `v4.0.8` (2026-08-29)
-- **Last commit**: 2026-09-08
-- **Assets in release**: 8
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [pylint-4.0.8-py3-none-any.whl](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl) | 528.0 KiB | `other` |
-| [pylint-4.0.8-py3-none-any.whl.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl.sigstore.json) | 9.1 KiB | `other` |
-| [pylint-4.0.8.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz) | 1.5 MiB | `native/unknown` |
-| [pylint-4.0.8.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz.sigstore.json) | 9.0 KiB | `other` |
-| [v4.0.8.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.tar.gz) | 1.5 MiB | `native/unknown` |
-| [v4.0.8.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.tar.gz.sigstore.json) | 9.0 KiB | `other` |
-| [v4.0.8.zip](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.zip) | 2.8 MiB | `other` |
-| [v4.0.8.zip.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.zip.sigstore.json) | 9.0 KiB | `other` |
-
-## Popularity
-
-- **Stars**: 5,722 · **Forks**: 1,335 · **Open issues**: 6,012 · **Contributors**: 588
-
-## Totals (cumulative)
-
-- **Releases**: 114 · **Merged PRs**: 4678 · **Open PRs**: 97 · **Closed issues**: 5025 · **Open issues**: 987 · **Commits**: 10271
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 59 | 33 | 13 | 6 | 83 |
-| 90d | 2026-06-12 | 3 | 139 | 56 | 34 | 12 | 188 |
-| 360d | 2025-09-15 | 10 | 457 | 82 | 145 | 58 | 652 |
-
-## Code size
+## Code insight
 
 Total: **115,040** lines of code across **2898** files in the top 5 languages.
 
@@ -74,6 +33,50 @@ Lowest-scoring checks:
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
+## Source
+
+- **Upstream**: <https://github.com/pylint-dev/pylint>
+- **Homepage**: <https://pylint.readthedocs.io/en/latest/>
+- **License**: GPL-2.0
+
+## Release
+
+- **Latest**: `v4.0.8` (2026-08-29)
+- **Last commit**: 2026-09-08
+- **Assets in release**: 8
+
+## Popularity
+
+- **Stars**: 5,722 · **Forks**: 1,336 · **Open issues**: 6,012 · **Contributors**: 588
+
+## Totals (cumulative)
+
+- **Releases**: 114 · **Merged PRs**: 4678 · **Open PRs**: 98 · **Closed issues**: 5025 · **Open issues**: 987 · **Commits**: 10271
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 49 | 31 | 12 | 6 | 83 |
+| last60d | 2026-07-13 | 2 | 102 | 53 | 23 | 9 | 141 |
+| 90d | 2026-06-13 | 3 | 138 | 57 | 34 | 12 | 188 |
+| last180d | 2026-03-15 | 3 | 245 | 70 | 63 | 25 | 358 |
+| 360d | 2025-09-16 | 10 | 450 | 83 | 143 | 57 | 652 |
+| last720d | 2024-09-21 | 19 | 779 | 89 | 280 | 156 | 914 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pylint-4.0.8-py3-none-any.whl](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl) | 528.0 KiB | `other` |
+| [pylint-4.0.8-py3-none-any.whl.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl.sigstore.json) | 9.1 KiB | `other` |
+| [pylint-4.0.8.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz) | 1.5 MiB | `native/unknown` |
+| [pylint-4.0.8.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz.sigstore.json) | 9.0 KiB | `other` |
+| [v4.0.8.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.tar.gz) | 1.5 MiB | `native/unknown` |
+| [v4.0.8.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.tar.gz.sigstore.json) | 9.0 KiB | `other` |
+| [v4.0.8.zip](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.zip) | 2.8 MiB | `other` |
+| [v4.0.8.zip.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.0.8/v4.0.8.zip.sigstore.json) | 9.0 KiB | `other` |
+
 ## Improve this data
 
 Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pylint` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -83,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:31Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:20:48Z._
