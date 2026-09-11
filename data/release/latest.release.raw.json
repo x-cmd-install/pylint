@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 540709,
       "digest": "sha256:3341c08c0aabaa4adc71516de0969f3ba5c692b56c75af4dcb4d242823fbe363",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-29T12:22:03Z",
       "updated_at": "2026-08-29T12:22:03Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8-py3-none-any.whl"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9251,
       "digest": "sha256:281a70489ea67186ee4ef64392cded490bff38d0394f7bd62e6729b7f4048109",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-29T12:22:03Z",
       "updated_at": "2026-08-29T12:22:03Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz.sigstore.json"
