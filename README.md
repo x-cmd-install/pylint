@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.8` (2026-08-29)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-15
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,723 · **Forks**: 1,338 · **Open issues**: 6,014 · **Contributors**: 591
+- **Stars**: 5,723 · **Forks**: 1,339 · **Open issues**: 6,014 · **Contributors**: 591
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 4689 · **Open PRs**: 87 · **Closed issues**: 5072 · **Open issues**: 942 · **Commits**: 10280
+- **Releases**: 114 · **Merged PRs**: 4692 · **Open PRs**: 87 · **Closed issues**: 5073 · **Open issues**: 941 · **Commits**: 10281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 53 | 24 | 12 | 7 | 50 |
-| last60d | 2026-07-16 | 2 | 110 | 43 | 23 | 8 | 148 |
-| 90d | 2026-06-16 | 2 | 141 | 48 | 37 | 11 | 196 |
-| last180d | 2026-03-18 | 3 | 249 | 59 | 67 | 21 | 357 |
-| 360d | 2025-09-19 | 10 | 458 | 70 | 149 | 53 | 642 |
-| last720d | 2024-09-24 | 19 | 781 | 78 | 291 | 139 | 919 |
+| 30d | 2026-08-16 | 1 | 56 | 24 | 12 | 7 | 51 |
+| last60d | 2026-07-17 | 2 | 113 | 42 | 22 | 8 | 149 |
+| 90d | 2026-06-17 | 2 | 144 | 47 | 37 | 11 | 197 |
+| last180d | 2026-03-19 | 3 | 252 | 59 | 67 | 21 | 358 |
+| 360d | 2025-09-20 | 10 | 458 | 70 | 149 | 53 | 643 |
+| last720d | 2024-09-25 | 18 | 781 | 77 | 291 | 136 | 914 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:02:04Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:09:06Z._
