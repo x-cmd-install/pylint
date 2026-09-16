@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1599177,
       "digest": "sha256:1c1b2128bde5ff5e966801413080b6384d42a5782718d528c906dbb6beab94ed",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-08-29T12:22:03Z",
       "updated_at": "2026-08-29T12:22:04Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.0.8/pylint-4.0.8.tar.gz"
