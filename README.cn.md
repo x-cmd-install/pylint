@@ -4,7 +4,7 @@
 
 It's not just a linter that annoys you!
 
-![pylint](https://repo.x-cmd.io/pylint.svg?lang=zh)
+[![x-cmd/install — pylint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pylint.svg?lang=zh)](https://x-cmd.com/install/pylint)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install pylint
 
 ## 流行度
 
-- **Star**: 5,725 · **Fork**: 1,341 · **开放 issue**: 6,015 · **贡献者**: 591
+- **Star**: 5,725 · **Fork**: 1,339 · **开放 issue**: 6,015 · **贡献者**: 590
 
 ## 累计统计
 
-- **发布数**: 114 · **已合并 PR**: 4692 · **开放 PR**: 92 · **已关闭 issue**: 5073 · **开放 issue**: 942 · **提交数**: 10281
+- **发布数**: 114 · **已合并 PR**: 4691 · **开放 PR**: 92 · **已关闭 issue**: 5073 · **开放 issue**: 942 · **提交数**: 10281
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 41 | 26 | 4 | 7 | 51 |
-| last60d | 2026-07-20 | 2 | 111 | 47 | 22 | 9 | 149 |
-| 90d | 2026-06-20 | 2 | 144 | 52 | 37 | 12 | 197 |
-| last180d | 2026-03-22 | 3 | 247 | 64 | 67 | 22 | 358 |
-| 360d | 2025-09-23 | 10 | 448 | 75 | 148 | 53 | 643 |
-| last720d | 2024-09-28 | 18 | 777 | 82 | 289 | 133 | 910 |
+| 30d | 2026-08-21 | 1 | 36 | 26 | 4 | 7 | 34 |
+| last60d | 2026-07-22 | 2 | 109 | 47 | 22 | 9 | 137 |
+| 90d | 2026-06-22 | 2 | 141 | 52 | 37 | 12 | 195 |
+| last180d | 2026-03-24 | 3 | 241 | 64 | 67 | 22 | 351 |
+| 360d | 2025-09-25 | 10 | 443 | 75 | 146 | 53 | 634 |
+| last720d | 2024-09-30 | 18 | 773 | 82 | 289 | 131 | 906 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ pylint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:58:39Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:59:01Z._
