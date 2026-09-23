@@ -4,7 +4,7 @@
 
 It's not just a linter that annoys you!
 
-[![x-cmd/install — pylint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/pylint.svg)](https://x-cmd.com/install/pylint)
+[![x-cmd/install — pylint Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/pylint.svg)](https://x-cmd.com/install/pylint)
 
 ## Install
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.0.8` (2026-08-29)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,725 · **Forks**: 1,340 · **Open issues**: 6,016 · **Contributors**: 591
+- **Stars**: 5,726 · **Forks**: 1,343 · **Open issues**: 6,017 · **Contributors**: 591
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 4693 · **Open PRs**: 94 · **Closed issues**: 5075 · **Open issues**: 941 · **Commits**: 10283
+- **Releases**: 114 · **Merged PRs**: 4694 · **Open PRs**: 94 · **Closed issues**: 5075 · **Open issues**: 942 · **Commits**: 10284
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 36 | 28 | 4 | 7 | 36 |
-| last60d | 2026-07-24 | 2 | 110 | 49 | 23 | 9 | 139 |
-| 90d | 2026-06-24 | 2 | 143 | 54 | 37 | 11 | 197 |
-| last180d | 2026-03-26 | 3 | 243 | 66 | 67 | 22 | 353 |
-| 360d | 2025-09-27 | 10 | 444 | 77 | 146 | 53 | 636 |
-| last720d | 2024-10-02 | 18 | 773 | 84 | 286 | 130 | 903 |
+| 30d | 2026-08-24 | 1 | 35 | 27 | 4 | 7 | 37 |
+| last60d | 2026-07-25 | 2 | 108 | 49 | 23 | 10 | 140 |
+| 90d | 2026-06-25 | 2 | 144 | 54 | 37 | 11 | 198 |
+| last180d | 2026-03-27 | 3 | 244 | 66 | 67 | 23 | 354 |
+| 360d | 2025-09-28 | 10 | 445 | 77 | 146 | 54 | 637 |
+| last720d | 2024-10-03 | 18 | 773 | 84 | 285 | 131 | 903 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:54:18Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:02:24Z._
