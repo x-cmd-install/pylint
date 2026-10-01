@@ -14,11 +14,11 @@ x install pylint
 
 ## Code insight
 
-Total: **118,976** lines of code across **2957** files in the top 5 languages.
+Total: **119,004** lines of code across **2960** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 97,154 | 7,967 | 24,698 | 2486 |
+| Python | 97,182 | 7,974 | 24,715 | 2489 |
 | ReStructuredText | 18,572 | 0 | 9,952 | 332 |
 | Json | 2,018 | 0 | 0 | 109 |
 | Toml | 562 | 415 | 52 | 29 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,726 · **Forks**: 1,358 · **Open issues**: 6,029 · **Contributors**: 602
+- **Stars**: 5,727 · **Forks**: 1,359 · **Open issues**: 6,031 · **Contributors**: 602
 
 ## Totals (cumulative)
 
-- **Releases**: 118 · **Merged PRs**: 4744 · **Open PRs**: 95 · **Closed issues**: 5105 · **Open issues**: 924 · **Commits**: 10343
+- **Releases**: 118 · **Merged PRs**: 4748 · **Open PRs**: 104 · **Closed issues**: 5107 · **Open issues**: 924 · **Commits**: 10345
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 4 | 57 | 34 | 10 | 7 | 111 |
-| last60d | 2026-08-01 | 6 | 134 | 51 | 32 | 9 | 215 |
-| 90d | 2026-07-02 | 6 | 182 | 60 | 48 | 10 | 245 |
-| last180d | 2026-04-03 | 7 | 283 | 67 | 80 | 21 | 433 |
-| 360d | 2025-10-05 | 14 | 476 | 78 | 155 | 50 | 700 |
-| last720d | 2024-10-10 | 22 | 814 | 86 | 298 | 126 | 954 |
+| 30d | 2026-09-01 | 4 | 61 | 43 | 12 | 7 | 114 |
+| last60d | 2026-08-02 | 6 | 136 | 59 | 34 | 9 | 218 |
+| 90d | 2026-07-03 | 6 | 185 | 69 | 49 | 10 | 248 |
+| last180d | 2026-04-04 | 7 | 287 | 76 | 82 | 21 | 436 |
+| 360d | 2025-10-06 | 13 | 477 | 87 | 155 | 50 | 703 |
+| last720d | 2024-10-11 | 22 | 818 | 95 | 298 | 126 | 955 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:47:44Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T05:57:05Z._
