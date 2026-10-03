@@ -14,12 +14,12 @@ x install pylint
 
 ## 代码洞察
 
-合计: **119,004** 行代码（覆盖前 5 种语言、共 **2960** 个文件）。
+合计: **119,113** 行代码（覆盖前 5 种语言、共 **2964** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 97,182 | 7,974 | 24,715 | 2489 |
-| ReStructuredText | 18,572 | 0 | 9,952 | 332 |
+| Python | 97,258 | 7,980 | 24,731 | 2493 |
+| ReStructuredText | 18,605 | 0 | 9,976 | 332 |
 | Json | 2,018 | 0 | 0 | 109 |
 | Toml | 562 | 415 | 52 | 29 |
 | Svg | 263 | 2 | 2 | 1 |
@@ -41,41 +41,41 @@ x install pylint
 
 ## 发布
 
-- **最新版本**: `v4.1.1` (2026-09-29)
-- **最近提交**: 2026-09-30
+- **最新版本**: `v4.1.2` (2026-10-02)
+- **最近提交**: 2026-10-02
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 5,728 · **Fork**: 1,362 · **开放 issue**: 6,035 · **贡献者**: 602
+- **Star**: 5,731 · **Fork**: 1,364 · **开放 issue**: 6,036 · **贡献者**: 602
 
 ## 累计统计
 
-- **发布数**: 118 · **已合并 PR**: 4748 · **开放 PR**: 109 · **已关闭 issue**: 5107 · **开放 issue**: 928 · **提交数**: 10345
+- **发布数**: 119 · **已合并 PR**: 4758 · **开放 PR**: 108 · **已关闭 issue**: 5111 · **开放 issue**: 925 · **提交数**: 10358
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 4 | 60 | 47 | 12 | 11 | 114 |
-| last60d | 2026-08-03 | 6 | 133 | 63 | 32 | 13 | 218 |
-| 90d | 2026-07-04 | 6 | 170 | 72 | 43 | 14 | 248 |
-| last180d | 2026-04-05 | 7 | 287 | 81 | 82 | 25 | 436 |
-| 360d | 2025-10-07 | 13 | 477 | 92 | 155 | 54 | 703 |
-| last720d | 2024-10-12 | 22 | 818 | 100 | 298 | 130 | 955 |
+| 30d | 2026-09-03 | 5 | 70 | 45 | 16 | 8 | 138 |
+| last60d | 2026-08-04 | 7 | 143 | 61 | 34 | 10 | 242 |
+| 90d | 2026-07-05 | 7 | 176 | 71 | 46 | 11 | 272 |
+| last180d | 2026-04-06 | 8 | 295 | 80 | 86 | 22 | 460 |
+| 360d | 2025-10-08 | 14 | 485 | 91 | 157 | 51 | 727 |
+| last720d | 2024-10-13 | 23 | 828 | 99 | 301 | 127 | 968 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [pylint-4.1.1-py3-none-any.whl](https://github.com/pylint-dev/pylint/releases/download/v4.1.1/pylint-4.1.1-py3-none-any.whl) | 571.6 KiB | `other` |
-| [pylint-4.1.1-py3-none-any.whl.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.1/pylint-4.1.1-py3-none-any.whl.sigstore.json) | 10.9 KiB | `other` |
-| [pylint-4.1.1.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.1.1/pylint-4.1.1.tar.gz) | 1.7 MiB | `native/unknown` |
-| [pylint-4.1.1.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.1/pylint-4.1.1.tar.gz.sigstore.json) | 10.9 KiB | `other` |
-| [v4.1.1.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.1.1/v4.1.1.tar.gz) | 1.6 MiB | `native/unknown` |
-| [v4.1.1.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.1/v4.1.1.tar.gz.sigstore.json) | 10.9 KiB | `other` |
-| [v4.1.1.zip](https://github.com/pylint-dev/pylint/releases/download/v4.1.1/v4.1.1.zip) | 3.0 MiB | `other` |
-| [v4.1.1.zip.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.1/v4.1.1.zip.sigstore.json) | 10.7 KiB | `other` |
+| [pylint-4.1.2-py3-none-any.whl](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2-py3-none-any.whl) | 571.8 KiB | `other` |
+| [pylint-4.1.2-py3-none-any.whl.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2-py3-none-any.whl.sigstore.json) | 10.9 KiB | `other` |
+| [pylint-4.1.2.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2.tar.gz) | 1.7 MiB | `native/unknown` |
+| [pylint-4.1.2.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2.tar.gz.sigstore.json) | 10.9 KiB | `other` |
+| [v4.1.2.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.tar.gz) | 1.6 MiB | `native/unknown` |
+| [v4.1.2.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.tar.gz.sigstore.json) | 10.9 KiB | `other` |
+| [v4.1.2.zip](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.zip) | 3.1 MiB | `other` |
+| [v4.1.2.zip.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.zip.sigstore.json) | 10.9 KiB | `other` |
 
 ## 改进这些数据
 
@@ -86,4 +86,4 @@ pylint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261002.yml` · 2026-10-02T05:38:19Z._
+_数据快照: `data/card/261003.yml` · 2026-10-03T05:22:05Z._
