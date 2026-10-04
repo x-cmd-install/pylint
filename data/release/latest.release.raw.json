@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 585512,
       "digest": "sha256:e34c8636edc7d60a2eaadca4ad6c18a49e202361987a26e81b2a17fa92be28e1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:29Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11121,
       "digest": "sha256:36227431ca8087c0fa4af55eb8eb5ca450370fd1b430b8262f91606508488f32",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:28Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2-py3-none-any.whl.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1739885,
       "digest": "sha256:235f13dc418c0041c649b42a5c35c99f2ffc6ca8b6a7574958eac5335906a68a",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:29Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11164,
       "digest": "sha256:c87e475c78442e2e9d315f911ee96438ee012b3e70ac6957508e90d5f32936cc",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:28Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2.tar.gz.sigstore.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1666701,
       "digest": "sha256:e158b119b717ebd50365b8f571f7f78fb555da5b168b49ce029ac77d7bd68e8b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:29Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11117,
       "digest": "sha256:acacc38104536904a82cdeaefd8147c81ff7be4b466aceeef1afd361343ced8e",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:28Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.tar.gz.sigstore.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3201709,
       "digest": "sha256:23aa58761512fe8a966d9297482a9f2698b6faca769b66440298308ff6c26ded",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:29Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 11117,
       "digest": "sha256:895111573bb29339bc8c297664b3b9802210e8ca04cd081aa1543823945e6908",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:28Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.zip.sigstore.json"
