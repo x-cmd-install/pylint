@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3201709,
       "digest": "sha256:23aa58761512fe8a966d9297482a9f2698b6faca769b66440298308ff6c26ded",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:29Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.zip"
