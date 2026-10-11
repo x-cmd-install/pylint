@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1739885,
       "digest": "sha256:235f13dc418c0041c649b42a5c35c99f2ffc6ca8b6a7574958eac5335906a68a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:29Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1666701,
       "digest": "sha256:e158b119b717ebd50365b8f571f7f78fb555da5b168b49ce029ac77d7bd68e8b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-02T22:37:28Z",
       "updated_at": "2026-10-02T22:37:29Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.tar.gz"
