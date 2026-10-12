@@ -14,14 +14,14 @@ x install pylint
 
 ## Code insight
 
-Total: **120,630** lines of code across **2979** files in the top 5 languages.
+Total: **120,714** lines of code across **2976** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 98,717 | 8,074 | 25,246 | 2508 |
-| ReStructuredText | 18,647 | 0 | 9,993 | 332 |
+| Python | 98,692 | 8,076 | 25,241 | 2505 |
+| ReStructuredText | 18,760 | 0 | 10,057 | 332 |
 | Json | 2,018 | 0 | 0 | 109 |
-| Toml | 574 | 421 | 53 | 29 |
+| Toml | 570 | 421 | 53 | 29 |
 | Svg | 263 | 2 | 2 | 1 |
 
 ## OpenSSF Scorecard
@@ -41,41 +41,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v4.1.2` (2026-10-02)
-- **Last commit**: 2026-10-10
+- **Latest**: `v4.1.3` (2026-10-11)
+- **Last commit**: 2026-10-11
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,735 · **Forks**: 1,381 · **Open issues**: 6,049 · **Contributors**: 622
+- **Stars**: 5,735 · **Forks**: 1,383 · **Open issues**: 6,050 · **Contributors**: 623
 
 ## Totals (cumulative)
 
-- **Releases**: 119 · **Merged PRs**: 4832 · **Open PRs**: 110 · **Closed issues**: 5163 · **Open issues**: 886 · **Commits**: 10407
+- **Releases**: 120 · **Merged PRs**: 4836 · **Open PRs**: 113 · **Closed issues**: 5164 · **Open issues**: 886 · **Commits**: 10445
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 5 | 132 | 46 | 27 | 9 | 167 |
-| last60d | 2026-08-12 | 6 | 188 | 60 | 43 | 12 | 252 |
-| 90d | 2026-07-13 | 7 | 245 | 75 | 56 | 13 | 333 |
-| last180d | 2026-04-14 | 8 | 364 | 81 | 96 | 19 | 508 |
-| 360d | 2025-10-16 | 12 | 533 | 92 | 161 | 41 | 738 |
-| last720d | 2024-10-21 | 23 | 895 | 101 | 319 | 109 | 1011 |
+| 30d | 2026-09-12 | 6 | 134 | 48 | 28 | 8 | 247 |
+| last60d | 2026-08-13 | 7 | 190 | 63 | 44 | 12 | 332 |
+| 90d | 2026-07-14 | 8 | 249 | 78 | 57 | 13 | 413 |
+| last180d | 2026-04-15 | 9 | 368 | 84 | 96 | 19 | 588 |
+| 360d | 2025-10-17 | 13 | 537 | 95 | 162 | 41 | 818 |
+| last720d | 2024-10-22 | 24 | 899 | 104 | 320 | 109 | 1049 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pylint-4.1.2-py3-none-any.whl](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2-py3-none-any.whl) | 571.8 KiB | `other` |
-| [pylint-4.1.2-py3-none-any.whl.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2-py3-none-any.whl.sigstore.json) | 10.9 KiB | `other` |
-| [pylint-4.1.2.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2.tar.gz) | 1.7 MiB | `native/unknown` |
-| [pylint-4.1.2.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/pylint-4.1.2.tar.gz.sigstore.json) | 10.9 KiB | `other` |
-| [v4.1.2.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.tar.gz) | 1.6 MiB | `native/unknown` |
-| [v4.1.2.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.tar.gz.sigstore.json) | 10.9 KiB | `other` |
-| [v4.1.2.zip](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.zip) | 3.1 MiB | `other` |
-| [v4.1.2.zip.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.2/v4.1.2.zip.sigstore.json) | 10.9 KiB | `other` |
+| [pylint-4.1.3-py3-none-any.whl](https://github.com/pylint-dev/pylint/releases/download/v4.1.3/pylint-4.1.3-py3-none-any.whl) | 575.2 KiB | `other` |
+| [pylint-4.1.3-py3-none-any.whl.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.3/pylint-4.1.3-py3-none-any.whl.sigstore.json) | 10.8 KiB | `other` |
+| [pylint-4.1.3.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.1.3/pylint-4.1.3.tar.gz) | 1.7 MiB | `native/unknown` |
+| [pylint-4.1.3.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.3/pylint-4.1.3.tar.gz.sigstore.json) | 10.8 KiB | `other` |
+| [v4.1.3.tar.gz](https://github.com/pylint-dev/pylint/releases/download/v4.1.3/v4.1.3.tar.gz) | 1.6 MiB | `native/unknown` |
+| [v4.1.3.tar.gz.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.3/v4.1.3.tar.gz.sigstore.json) | 10.8 KiB | `other` |
+| [v4.1.3.zip](https://github.com/pylint-dev/pylint/releases/download/v4.1.3/v4.1.3.zip) | 3.1 MiB | `other` |
+| [v4.1.3.zip.sigstore.json](https://github.com/pylint-dev/pylint/releases/download/v4.1.3/v4.1.3.zip.sigstore.json) | 10.8 KiB | `other` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:50:26Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:58:21Z._
