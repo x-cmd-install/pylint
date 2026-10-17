@@ -14,11 +14,11 @@ x install pylint
 
 ## Code insight
 
-Total: **120,910** lines of code across **2977** files in the top 5 languages.
+Total: **120,937** lines of code across **2977** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 98,888 | 8,089 | 25,274 | 2506 |
+| Python | 98,915 | 8,091 | 25,278 | 2506 |
 | ReStructuredText | 18,760 | 0 | 10,057 | 332 |
 | Json | 2,018 | 0 | 0 | 109 |
 | Toml | 570 | 421 | 53 | 29 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.3` (2026-10-11)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-16
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,739 · **Forks**: 1,387 · **Open issues**: 6,053 · **Contributors**: 624
+- **Stars**: 5,740 · **Forks**: 1,391 · **Open issues**: 6,053 · **Contributors**: 624
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 4842 · **Open PRs**: 124 · **Closed issues**: 5166 · **Open issues**: 887 · **Commits**: 10450
+- **Releases**: 120 · **Merged PRs**: 4843 · **Open PRs**: 125 · **Closed issues**: 5166 · **Open issues**: 887 · **Commits**: 10451
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 6 | 130 | 55 | 29 | 9 | 251 |
-| last60d | 2026-08-17 | 7 | 187 | 72 | 43 | 13 | 336 |
-| 90d | 2026-07-18 | 8 | 252 | 87 | 55 | 14 | 418 |
-| last180d | 2026-04-19 | 9 | 370 | 95 | 97 | 19 | 593 |
-| 360d | 2025-10-21 | 12 | 529 | 106 | 163 | 40 | 823 |
-| last720d | 2024-10-26 | 24 | 902 | 115 | 321 | 107 | 1053 |
+| 30d | 2026-09-17 | 6 | 130 | 54 | 29 | 9 | 252 |
+| last60d | 2026-08-18 | 7 | 182 | 72 | 42 | 13 | 337 |
+| 90d | 2026-07-19 | 8 | 253 | 88 | 55 | 14 | 419 |
+| last180d | 2026-04-20 | 9 | 366 | 96 | 97 | 19 | 594 |
+| 360d | 2025-10-22 | 12 | 530 | 107 | 163 | 40 | 824 |
+| last720d | 2024-10-27 | 24 | 903 | 116 | 321 | 107 | 1054 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:34:07Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:30:05Z._
