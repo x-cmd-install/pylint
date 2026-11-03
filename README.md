@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.3` (2026-10-11)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-03
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,748 · **Forks**: 1,420 · **Open issues**: 6,071 · **Contributors**: 633
+- **Stars**: 5,748 · **Forks**: 1,423 · **Open issues**: 6,071 · **Contributors**: 633
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 4879 · **Open PRs**: 165 · **Closed issues**: 5180 · **Open issues**: 891 · **Commits**: 10500
+- **Releases**: 120 · **Merged PRs**: 4882 · **Open PRs**: 165 · **Closed issues**: 5180 · **Open issues**: 891 · **Commits**: 10502
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 1 | 85 | 87 | 14 | 22 | 110 |
-| last60d | 2026-09-03 | 6 | 183 | 111 | 34 | 26 | 330 |
-| 90d | 2026-08-04 | 8 | 259 | 124 | 52 | 28 | 436 |
-| last180d | 2026-05-06 | 9 | 392 | 138 | 96 | 33 | 637 |
-| 360d | 2025-11-07 | 12 | 549 | 148 | 154 | 54 | 838 |
-| last720d | 2024-11-12 | 24 | 921 | 156 | 318 | 113 | 1085 |
+| 30d | 2026-10-04 | 1 | 73 | 86 | 10 | 22 | 112 |
+| last60d | 2026-09-04 | 6 | 184 | 111 | 34 | 26 | 332 |
+| 90d | 2026-08-05 | 8 | 262 | 124 | 51 | 28 | 438 |
+| last180d | 2026-05-07 | 9 | 394 | 138 | 96 | 33 | 639 |
+| 360d | 2025-11-08 | 12 | 549 | 148 | 154 | 54 | 840 |
+| last720d | 2024-11-13 | 24 | 924 | 156 | 317 | 113 | 1085 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:59:23Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:59:12Z._
