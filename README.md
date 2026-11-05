@@ -26,12 +26,12 @@ Total: **122,915** lines of code across **2989** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.2 / 10**
+Overall score: **8.3 / 10**
 
 Lowest-scoring checks:
 
-- **Fuzzing** (0/10) — project is not fuzzed
 - **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 120 · **Merged PRs**: 4882 · **Open PRs**: 168 · **Closed issues**: 5180 · **Open issues**: 891 · **Commits**: 10502
+- **Releases**: 120 · **Merged PRs**: 4882 · **Open PRs**: 169 · **Closed issues**: 5180 · **Open issues**: 891 · **Commits**: 10502
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 70 | 87 | 10 | 21 | 112 |
-| last60d | 2026-09-05 | 6 | 184 | 114 | 34 | 26 | 332 |
-| 90d | 2026-08-06 | 8 | 261 | 127 | 51 | 28 | 438 |
-| last180d | 2026-05-08 | 9 | 394 | 141 | 96 | 33 | 639 |
-| 360d | 2025-11-09 | 12 | 546 | 151 | 154 | 54 | 840 |
-| last720d | 2024-11-14 | 24 | 924 | 159 | 317 | 113 | 1085 |
+| 30d | 2026-10-06 | 1 | 67 | 87 | 10 | 19 | 112 |
+| last60d | 2026-09-06 | 6 | 179 | 114 | 34 | 26 | 332 |
+| 90d | 2026-08-07 | 8 | 260 | 127 | 51 | 28 | 438 |
+| last180d | 2026-05-09 | 9 | 392 | 142 | 95 | 33 | 639 |
+| 360d | 2025-11-10 | 12 | 541 | 152 | 153 | 53 | 840 |
+| last720d | 2024-11-15 | 24 | 924 | 160 | 317 | 112 | 1085 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:28:13Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:46:30Z._
