@@ -1,0 +1,188 @@
+about:
+  description: "It's not just a linter that annoys you!"
+  license: GPL-2.0
+  homepage: https://pylint.readthedocs.io/en/latest/
+  head: 1d6a419
+  archived: false
+  latestVersion: "v4.1.4"
+  latestRelease: "v4.1.4"
+  latestPrerelease: "v3.3.5a0"
+  collectedAt: 2026-11-15T06:32:40Z
+timeline:
+  created: 2015-12-09
+  lastCommit: 2026-11-14
+  lastVersion: 2026-11-14
+  lastRelease: 2026-11-14
+  lastPrerelease: 2025-03-08
+popularity:
+  star: 5749
+  watcher: 73
+  fork: 1447
+  release: 121
+  contributor: 640
+  pullRequest: 5715
+  issue: 6076
+language:
+  Python: 4023326
+  Mermaid: 25746
+  HTML: 1844
+  Awk: 1071
+totalBytes: 4051987
+recent:
+  last30d:
+    since: 2026-10-16
+    release: 1
+    mergedPR: 43
+    openPR: 79
+    closedIssue: 5
+    openIssue: 19
+    commit: 83
+  last60d:
+    since: 2026-09-16
+    release: 7
+    mergedPR: 181
+    openPR: 123
+    closedIssue: 35
+    openIssue: 27
+    commit: 377
+  last90d:
+    since: 2026-08-17
+    release: 8
+    mergedPR: 240
+    openPR: 138
+    closedIssue: 49
+    openIssue: 31
+    commit: 440
+  last180d:
+    since: 2026-05-19
+    release: 10
+    mergedPR: 400
+    openPR: 157
+    closedIssue: 94
+    openIssue: 36
+    commit: 670
+  last360d:
+    since: 2025-11-20
+    release: 12
+    mergedPR: 552
+    openPR: 166
+    closedIssue: 152
+    openIssue: 53
+    commit: 894
+  last720d:
+    since: 2024-11-25
+    release: 25
+    mergedPR: 933
+    openPR: 175
+    closedIssue: 315
+    openIssue: 109
+    commit: 1109
+total:
+  release: 121
+  mergedPR: 4899
+  openPR: 184
+  closedIssue: 5191
+  openIssue: 885
+  commit: 10531
+---
+path: /home/runner/.x-repo/github.com/pylint-dev/pylint
+collectedAt: 2026-11-15T06:32:45Z
+loc:
+  Python:
+    code: 101050
+    comments: 8232
+    blanks: 25799
+    files: 2521
+  ReStructuredText:
+    code: 18865
+    comments: 0
+    blanks: 10106
+    files: 335
+  Json:
+    code: 2018
+    comments: 0
+    blanks: 0
+    files: 109
+  Toml:
+    code: 568
+    comments: 431
+    blanks: 54
+    files: 29
+  Svg:
+    code: 263
+    comments: 2
+    blanks: 2
+    files: 1
+  Xml:
+    code: 106
+    comments: 0
+    blanks: 0
+    files: 7
+  Ini:
+    code: 105
+    comments: 19
+    blanks: 14
+    files: 9
+  Html:
+    code: 70
+    comments: 0
+    blanks: 4
+    files: 2
+  ForgeConfig:
+    code: 37
+    comments: 9
+    blanks: 6
+    files: 6
+  Batch:
+    code: 35
+    comments: 4
+    blanks: 9
+    files: 1
+  Makefile:
+    code: 25
+    comments: 12
+    blanks: 10
+    files: 1
+  AWK:
+    code: 14
+    comments: 8
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 14
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 10
+    comments: 2
+    blanks: 0
+    files: 1
+  Dockerfile:
+    code: 5
+    comments: 0
+    blanks: 2
+    files: 1
+  Gherkin:
+    code: 4
+    comments: 0
+    blanks: 2
+    files: 2
+  Markdown:
+    code: 0
+    comments: 790
+    blanks: 115
+    files: 9
+  Text:
+    code: 0
+    comments: 6320
+    blanks: 220
+    files: 799
+total:
+  code: 123220
+  comments: 15829
+  blanks: 36345
+  files: 3835
+---
+
+---
