@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v4.1.4` (2026-11-14)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-17
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 5,750 · **Forks**: 1,448 · **Open issues**: 6,076 · **Contributors**: 641
+- **Stars**: 5,750 · **Forks**: 1,449 · **Open issues**: 6,076 · **Contributors**: 642
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 4901 · **Open PRs**: 185 · **Closed issues**: 5191 · **Open issues**: 885 · **Commits**: 10533
+- **Releases**: 121 · **Merged PRs**: 4903 · **Open PRs**: 188 · **Closed issues**: 5191 · **Open issues**: 885 · **Commits**: 10535
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 44 | 76 | 5 | 18 | 85 |
-| last60d | 2026-09-17 | 7 | 182 | 122 | 35 | 27 | 379 |
-| 90d | 2026-08-18 | 8 | 235 | 139 | 48 | 31 | 442 |
-| last180d | 2026-05-20 | 10 | 397 | 158 | 88 | 36 | 672 |
-| 360d | 2025-11-21 | 12 | 554 | 167 | 152 | 53 | 896 |
-| last720d | 2024-11-26 | 25 | 935 | 176 | 315 | 109 | 1111 |
+| 30d | 2026-10-18 | 1 | 42 | 73 | 4 | 15 | 87 |
+| last60d | 2026-09-18 | 7 | 184 | 125 | 35 | 27 | 381 |
+| 90d | 2026-08-19 | 8 | 232 | 141 | 43 | 30 | 444 |
+| last180d | 2026-05-21 | 10 | 398 | 161 | 88 | 36 | 674 |
+| 360d | 2025-11-22 | 12 | 554 | 170 | 152 | 53 | 898 |
+| last720d | 2024-11-27 | 25 | 937 | 179 | 315 | 109 | 1113 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:34:00Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:23:06Z._
