@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,749 · **Forks**: 1,464 · **Open issues**: 6,079 · **Contributors**: 651
+- **Stars**: 5,749 · **Forks**: 1,468 · **Open issues**: 6,079 · **Contributors**: 652
 
 ## Totals (cumulative)
 
-- **Releases**: 121 · **Merged PRs**: 4921 · **Open PRs**: 205 · **Closed issues**: 5213 · **Open issues**: 866 · **Commits**: 10558
+- **Releases**: 121 · **Merged PRs**: 4921 · **Open PRs**: 208 · **Closed issues**: 5213 · **Open issues**: 866 · **Commits**: 10559
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 33 | 69 | 4 | 11 | 81 |
-| last60d | 2026-09-28 | 6 | 168 | 138 | 26 | 27 | 335 |
-| 90d | 2026-08-29 | 8 | 226 | 159 | 39 | 29 | 453 |
-| last180d | 2026-05-31 | 10 | 392 | 177 | 86 | 36 | 670 |
-| 360d | 2025-12-02 | 11 | 565 | 186 | 153 | 51 | 923 |
-| last720d | 2024-12-07 | 24 | 951 | 196 | 314 | 106 | 1129 |
+| 30d | 2026-10-29 | 1 | 32 | 68 | 4 | 8 | 82 |
+| last60d | 2026-09-29 | 6 | 158 | 141 | 24 | 27 | 336 |
+| 90d | 2026-08-30 | 7 | 225 | 161 | 39 | 29 | 454 |
+| last180d | 2026-06-01 | 10 | 391 | 180 | 83 | 36 | 671 |
+| 360d | 2025-12-03 | 11 | 565 | 189 | 152 | 50 | 924 |
+| last720d | 2024-12-08 | 24 | 948 | 199 | 313 | 106 | 1130 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for pylint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:39:26Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:09:32Z._
