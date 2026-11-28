@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10813,
       "digest": "sha256:8bf012c673fa472a10d695ba6a12a37472a4b342c322b2fd17b9676f59d58713",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-14T21:41:42Z",
       "updated_at": "2026-11-14T21:41:42Z",
       "browser_download_url": "https://github.com/pylint-dev/pylint/releases/download/v4.1.4/pylint-4.1.4.tar.gz.sigstore.json"
